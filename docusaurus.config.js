@@ -129,7 +129,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Blog12',
                 to: '/blog',
               },
               {
